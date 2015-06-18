@@ -1,0 +1,16 @@
+{
+  "name": "Catch Appraisals Theme",
+  "version": "1.0.0",
+  "authors": [
+    "Sergey Sadovoi <serg.sadovoi@gmail.com>"
+  ],
+  "description": "Simple landing page",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "fontawesome": "~4.3.0",
+    "html5shiv": "~3.7.2",
+    "bxslider-4": "~4.2.5"
+  }
+}
