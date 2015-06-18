@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "build": "gulp build",
+    "install": "bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sergey Sadovoi <serg.sadovoi@gmail.com>",
