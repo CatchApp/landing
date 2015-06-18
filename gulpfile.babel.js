@@ -44,6 +44,9 @@ gulp.task('build:js:ie', () => {
 gulp.task('build:css', () => {
     gulp
         .src([
+            'src/vendor/bootstrap/dist/css/bootstrap.css',
+            'src/vendor/fontawesome/css/font-awesome.min.css',
+            'src/vendor/bxslider-4/dist/jquery.bxslider.css',
             'src/css/fonts.css',
             'src/css/main.css',
             'src/css/media.css'
